@@ -1,20 +1,20 @@
 cat > README.md <<'EOF'
-# Live Event Risk Intelligence Platform
+# 🌍 Live Event Risk Intelligence Platform
 
 Gerçek zamanlı dış veri kaynaklarını bir araya getirerek bölgesel olayları analiz eden ve kural tabanlı risk skoru üreten bir veri analizi ve karar destek platformudur.
 
-## Proje
+## 🚀 Proje
 
 Platform; deprem, hava durumu, haber ve ulaşım verilerini toplar, analiz eder ve 0-100 arasında bir risk skoru oluşturur.
 
-## Veri Kaynakları
+## 📊 Veri Kaynakları
 
 - 🌎 USGS Earthquake API
 - 🌤️ Open-Meteo Weather API
 - 📰 GDELT News API
 - ✈️ OpenSky Network API
 
-## Risk Modeli
+## 🧠 Risk Modeli
 
 Risk skoru dört ana bileşenden oluşturulur:
 
@@ -32,7 +32,7 @@ Risk skoru dört ana bileşenden oluşturulur:
 - 🟠 60-79 → Yüksek
 - 🔴 80-100 → Kritik
 
-## Kullanılan Teknolojiler
+## 🛠️ Kullanılan Teknolojiler
 
 - Python
 - Streamlit
@@ -43,7 +43,7 @@ Risk skoru dört ana bileşenden oluşturulur:
 - RapidFuzz
 - SQLite
 
-## Proje Yapısı
+## 📁 Proje Yapısı
 
 ```text
 live-risk-platform/
