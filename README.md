@@ -14,6 +14,28 @@ Platform; deprem, hava durumu, haber ve ulaşım verilerini toplar, analiz eder 
 - 📰 GDELT News API
 - ✈️ OpenSky Network API
 
+
+## 📊 Dashboard Preview
+
+The platform provides a real-time dashboard for monitoring events and calculating rule-based risk scores.
+
+### Risk Overview
+
+![Dashboard Overview](images/dashboard-overview.png)
+
+### Alert Center & Event Distribution
+
+![Alert Center](images/alert-center.png)
+
+### Live Events & Event Map
+
+![Event Map](images/event-map.png)
+
+### Risk Trend & History
+
+![Risk History](images/risk-history.png)
+
+
 ## 🧠 Risk Modeli
 
 Risk skoru dört ana bileşenden oluşturulur:
